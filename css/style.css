@@ -22,7 +22,7 @@ body {
 .container {
   color: white;
   min-width: 400px;
-  height: 400px;
+  
   background-image: radial-gradient(circle at 99.96% 99.96%, #1077f8 0, #1077f8 50%, #1077f8 100%);
   padding: 2rem;
   border-radius: 10px;
